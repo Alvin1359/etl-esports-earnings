@@ -7,6 +7,9 @@ config.py
 # C extensions
 *.so
 
+# password ignore
+password.py
+
 # Distribution / packaging
 .Python
 build/
